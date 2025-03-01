@@ -2,6 +2,7 @@
 title: Photo Gallery
 layout: page
 permalink: /gallery/
+icon: fas fa-camera
 ---
 
 # My Photo Gallery
